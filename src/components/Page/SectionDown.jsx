@@ -195,24 +195,25 @@ https://assets-global.website-files.com/63fdcbe48aa020c0a5493507/65b35cdd5e61d02
   }
 `}</style>
               </div>
-            </div>
-            <div class="div-block-278">
-              <img
-                src="https://assets-global.website-files.com/63fdcbe48aa020c0a5493507/6560dea5caeea449781b1402_how-card-btn1.webp"
-                loading="lazy"
-                id="w-node-_69b350e4-6a61-659b-14a3-ed02adf03629-8c4e74c2"
-                alt=""
-                class="image-84 shadows_3"
-              />
-              <img
-                src="https://assets-global.website-files.com/63fdcbe48aa020c0a5493507/6560dea5e4754f9e471d758f_how-card-btn2.webp"
-                loading="lazy"
-                id="w-node-c124413a-d710-820b-c454-3cfd1010d0c4-8c4e74c2"
-                alt=""
-                class="image-84 shadows_3"
-              />
+              <div class="div-block-278">
+                <img
+                  src="https://assets-global.website-files.com/63fdcbe48aa020c0a5493507/6560dea5caeea449781b1402_how-card-btn1.webp"
+                  loading="lazy"
+                  id="w-node-_69b350e4-6a61-659b-14a3-ed02adf03629-8c4e74c2"
+                  alt=""
+                  class="image-84 shadows_3"
+                />
+                <img
+                  src="https://assets-global.website-files.com/63fdcbe48aa020c0a5493507/6560dea5e4754f9e471d758f_how-card-btn2.webp"
+                  loading="lazy"
+                  id="w-node-c124413a-d710-820b-c454-3cfd1010d0c4-8c4e74c2"
+                  alt=""
+                  class="image-84 shadows_3"
+                />
+              </div>
             </div>
           </div>
+
           <div
             id="w-node-_33c8d3d5-23e6-abdc-e2a4-06f312009747-8c4e74c2"
             class="how_card padding-0">
