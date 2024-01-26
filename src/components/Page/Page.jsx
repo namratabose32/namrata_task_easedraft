@@ -17,6 +17,9 @@ export default function Page() {
         />
       </div>
       <SectionMid />
+      <div class="background_section is-under">
+        <div class="blur_bg_black"></div>
+      </div>
     </div>
   );
 }
