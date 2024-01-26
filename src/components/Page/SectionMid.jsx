@@ -167,7 +167,7 @@ export default function SectionMid() {
                       src="https://resource.heygencdn.com/homepage/usecase_mailchimp2.mp4"
                       type="video/mp4"
                       muted
-                      autoplay
+                      autoPlay
                       loop></video>
                   </div>
                   <div class="button_play is-create-mobile">
@@ -294,7 +294,7 @@ export default function SectionMid() {
 "
                         type="video/mp4"
                         muted
-                        autoplay
+                        autoPlay
                         loop></video>
                     </div>
                     <div class="button_play is-create-mobile">
@@ -411,7 +411,7 @@ https://assets-global.website-files.com/63fdcbe48aa020c0a5493507/65b35cde0880db9
                         src="https://resource.heygencdn.com/website/vera_remove/usecase_lnd2_new_output.mp4"
                         type="video/mp4"
                         muted
-                        autoplay
+                        autoPlay
                         loop></video>
                     </div>
                     <div class="button_play is-create-mobile">
