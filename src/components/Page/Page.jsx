@@ -3,6 +3,7 @@ import FullscreenVideoComponent from "./FullscreenVideoComponent";
 import "./styles.css";
 import Section from "./section/Section";
 import SectionMid from "./SectionMid";
+import SectionDown from "./SectionDown";
 export default function Page() {
   return (
     <div className="page_wrapper">
@@ -20,6 +21,7 @@ export default function Page() {
       <div class="background_section is-under">
         <div class="blur_bg_black"></div>
       </div>
+      <SectionDown />
     </div>
   );
 }

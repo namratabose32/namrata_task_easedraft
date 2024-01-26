@@ -4,6 +4,7 @@ import SectionPart2 from "./SectionPart2";
 import VedioScript from "./VedioScript";
 import HeroVedio1 from "./HeroVedio1";
 import HeroVedio2 from "./HeroVedio2";
+import HeroVedio3 from "./HeroVedio3";
 
 export default function Section() {
   return (
@@ -19,6 +20,7 @@ export default function Section() {
               <VedioScript />
               <HeroVedio1 />
               <HeroVedio2 />
+              <HeroVedio3 />
             </div>
           </div>
         </div>

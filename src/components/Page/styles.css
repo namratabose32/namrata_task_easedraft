@@ -768,3 +768,25 @@ injected stylesheet .PlayBackRatePanelYPSC {
   right: -50%;
   transform: rotate(-15deg);
 }
+#w-node-_7cd5bfe7-c9d5-d905-ae95-982e866b0046-8c4e74c2,
+#w-node-b02be2ee-7fa1-2174-402e-55adf03ec90a-8c4e74c2,
+#w-node-_5ba5d9f0-f139-a3f8-b24a-ca4c91a4b1c0-8c4e74c2,
+#w-node-_344ad384-c340-d081-f420-e3b8b914cae5-8c4e74c2,
+#w-node-b44b867b-373b-0eae-d602-44a3c7fe0bef-8c4e74c2,
+#w-node-cc7b7c79-0813-bd24-37cd-1c6f7683ec6b-8c4e74c2,
+#w-node-_69b350e4-6a61-659b-14a3-ed02adf03629-8c4e74c2,
+#w-node-c124413a-d710-820b-c454-3cfd1010d0c4-8c4e74c2,
+#w-node-_33c8d3d5-23e6-abdc-e2a4-06f312009747-8c4e74c2,
+#w-node-_33c8d3d5-23e6-abdc-e2a4-06f312009748-8c4e74c2,
+#w-node-_33c8d3d5-23e6-abdc-e2a4-06f31200974f-8c4e74c2,
+#w-node-_308966cd-076e-95bb-ba41-8ea73468f53e-8c4e74c2,
+#voice-slider.w-node-e69c063c-7c9d-5e98-a231-9ba72e2b5b53-8c4e74c2 {
+  grid-area: span 1 / span 1 / span 1 / span 1;
+}
+body {
+  color: var(--neutral-80);
+  background-color: #f8f8f8;
+  font-family: Roobert, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
