@@ -866,3 +866,234 @@ p {
   z-index: 0;
   position: absolute;
 }
+@media screen and (max-width: 479px) {
+  .how_cards {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .how_cards {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .how_cards {
+    display: flex;
+    overflow: auto;
+  }
+}
+@media screen and (max-width: 479px) {
+  .how_padding {
+    padding-top: 6rem;
+  }
+}
+@media screen and (max-width: 767px) {
+  .how_padding {
+    padding-top: 8rem;
+  }
+}
+@media screen and (max-width: 991px) {
+  .how_padding {
+    z-index: 2;
+    padding-top: 10rem;
+    position: relative;
+  }
+}
+@media screen and (max-width: 479px) {
+  .heygen_container {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+@media screen and (max-width: 767px) {
+  .heygen_container {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+}
+@media screen and (max-width: 991px) {
+  .heygen_container {
+    grid-template-columns: 0.25fr 1fr;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+}
+@media screen and (max-width: 991px) {
+  .div-block-273 {
+    grid-row-gap: 24px;
+    grid-template-columns: 1fr;
+  }
+}
+@media screen and (max-width: 991px) {
+  #w-node-_9ddfc2ad-d786-57b7-abfc-64f9a18d17c3-8c4e74c2 {
+    grid-area: 2/1/3/2;
+    align-self: end;
+  }
+}
+@media screen and (max-width: 479px) {
+  .how_video {
+    margin-bottom: 56px;
+  }
+}
+@media screen and (max-width: 767px) {
+  .how_video {
+    width: 100%;
+    border-radius: 10px;
+  }
+}
+@media screen and (max-width: 991px) {
+  .how_video {
+    width: 110%;
+    border-radius: 20px;
+    margin-bottom: 80px;
+    right: 0;
+  }
+}
+@media screen and (max-width: 991px) {
+  .create_video_wrap,
+  .how_video_wrap,
+  .avatar_video_wrap,
+  .ai_voice_video_wrap {
+    border-radius: 16px;
+    overflow: hidden;
+  }
+}
+@media screen and (max-width: 478px) {
+  .hero-video,
+  .muted-video,
+  .ai_voice_video,
+  .translator_video,
+  .footer_cta_video {
+    display: none;
+  }
+}
+@media screen and (max-width: 478px) {
+  .video-preview {
+    height: 100%;
+    display: block;
+  }
+}
+@media screen and (max-width: 479px) {
+  .video_btn_wrap {
+    margin-top: 12px;
+    margin-left: 12px;
+  }
+}
+@media screen and (max-width: 767px) {
+  .video_btn_wrap {
+    margin-top: 16px;
+    margin-left: 16px;
+  }
+}
+@media screen and (max-width: 991px) {
+  .video_btn_wrap {
+    margin-top: 16px;
+    margin-left: 16px;
+  }
+}
+@media screen and (max-width: 991px) {
+  #w-node-b02be2ee-7fa1-2174-402e-55adf03ec90a-8c4e74c2 {
+    grid-area: 3/1/4/2;
+  }
+}
+@media screen and (max-width: 479px) {
+  .heygen_para {
+    font-size: 16px;
+  }
+}
+@media screen and (max-width: 767px) {
+  .heygen_para {
+    font-size: 18px;
+  }
+}
+@media screen and (max-width: 991px) {
+  .heygen_para {
+    font-size: 20px;
+  }
+}
+@media screen and (max-width: 479px) {
+  .how_cards {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+@media screen and (max-width: 767px) {
+  .how_cards {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .how_cards {
+    display: flex;
+    overflow: auto;
+  }
+}
+@media screen and (max-width: 479px) {
+  .how_card {
+    max-width: 284px;
+    padding: 24px;
+  }
+}
+@media screen and (max-width: 991px) {
+  .how_card {
+    max-width: 373px;
+    flex: none;
+  }
+}
+@media screen and (max-width: 479px) {
+  .how_card_num {
+    margin-bottom: 8px;
+    font-size: 28px;
+  }
+}
+@media screen and (max-width: 991px) {
+  .how_card_num {
+    max-width: 416px;
+    letter-spacing: 0;
+    font-size: 64px;
+  }
+}
+@media screen and (max-width: 479px) {
+  .how_card_head {
+    font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .how_card_head {
+    line-height: 1.3;
+  }
+}
+@media screen and (max-width: 479px) {
+  .how_card_para {
+    font-size: 16px;
+  }
+}
+@media screen and (max-width: 767px) {
+  .how_card_para {
+    font-size: 18px;
+  }
+}
+@media screen and (max-width: 991px) {
+  .how_card_para {
+    font-size: 20px;
+  }
+}
+@media screen and (max-width: 479px) {
+  .how_card {
+    max-width: 284px;
+    padding: 24px;
+  }
+}
+@media screen and (max-width: 991px) {
+  .how_card {
+    max-width: 373px;
+    flex: none;
+  }
+}

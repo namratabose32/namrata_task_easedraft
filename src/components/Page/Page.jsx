@@ -4,7 +4,8 @@ import "./styles.css";
 import Section from "./section/Section";
 import SectionMid from "./SectionMid";
 import SectionDown from "./SectionDown";
-import SectionDark from "./SectionDark/SectionDark";
+import Avatars from "./Avatars/SectionDark";
+import AiVoice from "./AI_Voice/AiVoice";
 export default function Page() {
   return (
     <div className="page_wrapper">
@@ -23,7 +24,8 @@ export default function Page() {
         <div class="blur_bg_black"></div>
       </div>
       <SectionDown />
-      <SectionDark />
+      <Avatars />
+      <AiVoice />
     </div>
   );
 }

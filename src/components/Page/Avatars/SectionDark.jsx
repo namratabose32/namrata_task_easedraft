@@ -1,5 +1,6 @@
 import React from "react";
 import "./SectionDark.css";
+import "../styles.css";
 export default function SectionDark() {
   return (
     <section class="section_dark">
